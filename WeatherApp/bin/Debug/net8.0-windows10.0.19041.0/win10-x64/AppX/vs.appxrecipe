@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-06T09:51:47.199</Modified>
+      <Modified>2024-09-06T11:24:23.502</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-06T09:51:47.046</Modified>
+      <Modified>2024-09-06T10:40:29.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WeatherApp.runtimeconfig.json">
       <PackagePath>WeatherApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-06T09:51:46.823</Modified>
+      <Modified>2024-09-06T10:41:12.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WeatherApp.dll">
       <PackagePath>WeatherApp.dll</PackagePath>
-      <Modified>2024-09-06T09:51:45.837</Modified>
+      <Modified>2024-09-06T11:24:22.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>WeatherApp.exe</PackagePath>
-      <Modified>2024-09-06T09:51:45.854</Modified>
+      <Modified>2024-09-06T11:24:22.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:48.746</Modified>
+      <Modified>2024-09-06T10:40:26.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:48.761</Modified>
+      <Modified>2024-09-06T10:40:26.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:48.783</Modified>
+      <Modified>2024-09-06T10:40:26.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:48.821</Modified>
+      <Modified>2024-09-06T10:40:26.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:48.952</Modified>
+      <Modified>2024-09-06T10:40:27.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +83,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.242</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.242</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.242</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.242</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.242</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.247</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.247</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.246</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.248</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.247</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.247</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.247</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.247</Modified>
+      <Modified>2024-09-06T10:40:28.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.244</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.244</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.244</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.244</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.244</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.244</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.245</Modified>
+      <Modified>2024-09-06T10:40:28.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.243</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.249</Modified>
+      <Modified>2024-09-06T10:40:28.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.249</Modified>
+      <Modified>2024-09-06T10:40:28.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.249</Modified>
+      <Modified>2024-09-06T10:40:28.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.249</Modified>
+      <Modified>2024-09-06T10:40:28.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-09-06T09:48:50.249</Modified>
+      <Modified>2024-09-06T10:40:28.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WeatherApp.deps.json">
       <PackagePath>WeatherApp.deps.json</PackagePath>
-      <Modified>2024-09-06T09:51:46.700</Modified>
+      <Modified>2024-09-06T10:41:12.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\GioLGA\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
