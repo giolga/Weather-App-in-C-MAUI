@@ -1,0 +1,1 @@
+C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\WeatherApp.csproj;x64
