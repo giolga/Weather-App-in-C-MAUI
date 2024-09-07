@@ -157,6 +157,9 @@ namespace WeatherApp.Models
 
         [JsonProperty("icon")]
         public string Icon { get; set; }
+
+        public string FullIconUrl => string.Format("https://openweathermap.org/img/wn/{0}@2x.png", Icon);
+        public string Customicon => string.Format("icon_{0}.png", Icon);
     }
 
     public class Wind

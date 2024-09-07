@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|c:\\users\\giolga\\desktop\\weatherapp\\weatherapp\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|c:\\users\\giolga\\desktop\\weatherapp\\weatherapp\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|c:\\users\\giolga\\desktop\\weatherapp\\weatherapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|c:\\users\\giolga\\desktop\\weatherapp\\weatherapp\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|c:\\users\\giolga\\desktop\\weatherapp\\weatherapp\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|c:\\users\\giolga\\desktop\\weatherapp\\weatherapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F416EA-CB98-4CCC-98A9-925ABD20837B}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Models\\Root.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Models\\Root.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Models\\Root.cs",
+              "RelativeToolTip": "WeatherApp\\Models\\Root.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAQwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:00:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "APIService.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Services\\APIService.cs",
               "RelativeDocumentMoniker": "WeatherApp\\Services\\APIService.cs",
@@ -51,41 +64,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WeatherPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml.cs",
               "RelativeDocumentMoniker": "WeatherApp\\WeatherPage.xaml.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml.cs",
               "RelativeToolTip": "WeatherApp\\WeatherPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:38:09.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherPage.xaml",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml",
               "RelativeDocumentMoniker": "WeatherApp\\WeatherPage.xaml",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml",
               "RelativeToolTip": "WeatherApp\\WeatherPage.xaml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-06T09:49:19.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Root.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Models\\Root.cs",
-              "RelativeDocumentMoniker": "WeatherApp\\Models\\Root.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Models\\Root.cs",
-              "RelativeToolTip": "WeatherApp\\Models\\Root.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T09:50:23.143Z",
               "EditorCaption": ""
             }
           ]
