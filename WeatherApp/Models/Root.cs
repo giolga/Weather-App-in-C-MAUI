@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UtcTimeLibrary;
 
 namespace WeatherApp.Models
 {
@@ -53,6 +54,7 @@ namespace WeatherApp.Models
     {
         [JsonProperty("dt")]
         public int Dt { get; set; }
+        public string DateTime => UtcTimeLibrary.UtcTimeStamp.ConvertToUtc(Dt);
 
         [JsonProperty("main")]
         public Main Main { get; set; }
@@ -157,7 +159,6 @@ namespace WeatherApp.Models
 
         [JsonProperty("icon")]
         public string Icon { get; set; }
-
         public string FullIconUrl => string.Format("https://openweathermap.org/img/wn/{0}@2x.png", Icon);
         public string Customicon => string.Format("icon_{0}.png", Icon);
     }

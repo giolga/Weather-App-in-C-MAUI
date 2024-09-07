@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 873,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,9 +44,22 @@
               "RelativeDocumentMoniker": "WeatherApp\\Models\\Root.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Models\\Root.cs",
               "RelativeToolTip": "WeatherApp\\Models\\Root.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAAAKAAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAywKEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:00:11.991Z",
+              "WhenOpened": "2024-09-07T10:38:38.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherPage.xaml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\WeatherPage.xaml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml",
+              "RelativeToolTip": "WeatherApp\\WeatherPage.xaml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T10:31:04.045Z",
               "EditorCaption": ""
             },
             {
@@ -57,7 +70,7 @@
               "RelativeDocumentMoniker": "WeatherApp\\Services\\APIService.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Services\\APIService.cs",
               "RelativeToolTip": "WeatherApp\\Services\\APIService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACXAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAACXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:51:08.168Z",
               "EditorCaption": ""
@@ -70,22 +83,9 @@
               "RelativeDocumentMoniker": "WeatherApp\\WeatherPage.xaml.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml.cs",
               "RelativeToolTip": "WeatherApp\\WeatherPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:38:09.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherPage.xaml",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml",
-              "RelativeDocumentMoniker": "WeatherApp\\WeatherPage.xaml",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherPage.xaml",
-              "RelativeToolTip": "WeatherApp\\WeatherPage.xaml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-06T09:49:19.114Z",
               "EditorCaption": ""
             }
           ]

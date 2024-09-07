@@ -260,7 +260,6 @@ C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-ios\iossimulator-
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -314,3 +313,4 @@ C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\WeatherApp.pdb
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\WeatherApp.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-ios\iossimulator-x64\ref\WeatherApp.dll
+C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-ios\iossimulator-x64\UtcTimeLibrary.dll

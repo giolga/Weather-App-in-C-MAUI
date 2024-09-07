@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PZBHM9FaGmg=",
+  "dgSpecHash": "KUsk89MbT5Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240607001\\microsoft.windowsappsdk.1.5.240607001.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\GioLGA\\.nuget\\packages\\utctimelibrary\\1.0.0\\utctimelibrary.1.0.0.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\xamarin.android.glide\\4.15.1.2\\xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\xamarin.android.glide.annotations\\4.15.1.2\\xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.15.1.2\\xamarin.android.glide.disklrucache.4.15.1.2.nupkg.sha512",

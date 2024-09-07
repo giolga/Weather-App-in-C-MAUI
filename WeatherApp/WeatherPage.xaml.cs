@@ -17,6 +17,6 @@ public partial class WeatherPage : ContentPage
         LblTemperature.Text = result.List[0].Main.Temperature + " °C";
         LblHumidity.Text = result.List[0].Main.Humidity + "%";
         LblWind.Text = result.List[0].Wind.Speed + "km/h";
-        ImgWeatherIcon.Source = result.List[0].Weather[0].Customicon;
+        //ImgWeatherIcon.Source = result.List[0].Weather[0].Customicon;
     }
 }

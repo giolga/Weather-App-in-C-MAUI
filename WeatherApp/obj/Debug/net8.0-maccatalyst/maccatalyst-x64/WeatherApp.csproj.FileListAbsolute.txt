@@ -301,3 +301,4 @@ C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-maccatalyst\macca
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\WeatherApp.pdb
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\WeatherApp.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\WeatherApp.dll
+C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\UtcTimeLibrary.dll
