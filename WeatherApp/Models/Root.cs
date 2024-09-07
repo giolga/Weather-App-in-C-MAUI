@@ -87,6 +87,8 @@ namespace WeatherApp.Models
         [JsonProperty("temp")]
         public double Temp { get; set; }
 
+        public double Temperature => Math.Round(Temp);
+
         [JsonProperty("feels_like")]
         public double FeelsLike { get; set; }
 
