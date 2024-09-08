@@ -46,13 +46,15 @@
                    Grid.Row="1"
                    Grid.Column="0" 
                    FontSize="Medium"
-                   HorizontalOptions="Center" />
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"/>
 
             <Label x:Name="LblTemperature"
                    Grid.Row="0" 
                    Grid.Column="1"
                    Grid.RowSpan="2"
                    HorizontalOptions="Center"
+                   VerticalOptions="Start"
                    FontSize="40"
                    FontAttributes="Bold"/>
 
@@ -66,32 +68,33 @@
             <Label x:Name="LblWind"
                    Grid.Row="1"
                    Grid.Column="2" 
-                   HorizontalOptions="Center" />
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"/>
 
-            <CollectionView Grid.Row="4" x:Name="CvWeather" HeightRequest="100">
+            <CollectionView Grid.Row="4" x:Name="CvWeather" HeightRequest="150" Margin="0, 40, 0, 0" HorizontalOptions="Center" VerticalOptions="Center" Background="Aqua" Grid.ColumnSpan="3">
                 <CollectionView.ItemsLayout>
                     <LinearItemsLayout Orientation="Horizontal" ItemSpacing="20" />
                 </CollectionView.ItemsLayout>
 
-                <CollectionView.ItemTemplate>
+                <CollectionView.ItemTemplate >
                     <DataTemplate>
-                        <Grid Grid.Row="4" RowDefinitions="Auto, Auto, Auto">
+                        <Grid Grid.Row="4" RowDefinitions="Auto, Auto, Auto" HorizontalOptions="Center" >
                             <Image Grid.Row="0" 
                                    HorizontalOptions="Center"
                                    VerticalOptions="Start"
                                    HeightRequest="50"
                                    WidthRequest="50"
-                                   Source="\Images\magnifying-glass.png"/>
-                            
+                                   Source="C:\Users\GioLGA\Desktop\WeatherApp\WeatherApp\Images\icon_02n.png"/>
+
                             <Label Grid.Row="1"
                                    FontSize="Large"
                                    HorizontalOptions="Center"
-                                   Text="Chama"/>
-                            
+                                   Text="{Binding Main.Temperature}"/>
+
                             <Label Grid.Row="2"
-                                   FontSize="Small"
-                                   HorizontalOptions="Center"
-                                   Text="Chama"/>
+                               FontSize="Small"
+                               HorizontalOptions="Center"
+                               Text="2024-06-06"/>
                         </Grid>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>

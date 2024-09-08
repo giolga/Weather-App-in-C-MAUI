@@ -54,7 +54,13 @@ namespace WeatherApp.Models
     {
         [JsonProperty("dt")]
         public int Dt { get; set; }
-        public string DateTime => UtcTimeLibrary.UtcTimeStamp.ConvertToUtc(Dt);
+        public string DateTime
+        {
+            get
+            {
+                return DateTimeOffset.FromUnixTimeSeconds(Dt).DateTime.ToString("dd MMM yyyy HH:mm");
+            }
+        }
 
         [JsonProperty("main")]
         public Main Main { get; set; }
@@ -160,7 +166,7 @@ namespace WeatherApp.Models
         [JsonProperty("icon")]
         public string Icon { get; set; }
         public string FullIconUrl => string.Format("https://openweathermap.org/img/wn/{0}@2x.png", Icon);
-        public string Customicon => string.Format("icon_{0}.png", Icon);
+        public string Customicon => string.Format("C:\\Users\\GioLGA\\Desktop\\WeatherApp\\WeatherApp\\Images\\icon_{0}.png", Icon);
     }
 
     public class Wind
