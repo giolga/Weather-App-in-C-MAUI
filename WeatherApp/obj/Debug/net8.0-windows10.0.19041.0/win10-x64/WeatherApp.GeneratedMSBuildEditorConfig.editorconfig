@@ -35,3 +35,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WeatherApp.WeatherPage.xaml
 build_metadata.AdditionalFiles.TargetPath = WeatherPage.xaml
 build_metadata.AdditionalFiles.RelativePath = WeatherPage.xaml
+
+[C:/Users/GioLGA/Desktop/WeatherApp/WeatherApp/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherApp.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = WelcomePage.xaml
