@@ -6,20 +6,58 @@ public partial class WeatherPage : ContentPage
     public List<Models.List> weatherList;
     private double latitude;
     private double longitude;
-	public WeatherPage()
-	{
-		InitializeComponent();
+    public WeatherPage()
+    {
+        InitializeComponent();
         weatherList = new List<Models.List>();
-	}
+    }
 
     protected async override void OnAppearing()
     {
         base.OnAppearing();
         await GetLocation();
+        await GetWeatherDataByLocation(latitude, longitude);
+    }
 
+    public async Task GetLocation()
+    {
+        var location = await Geolocation.GetLocationAsync();
+        latitude = location.Latitude;
+        longitude = location.Longitude;
+    }
+
+    private async void TapLocation_Tapped(object sender, TappedEventArgs e)
+    {
+        await GetLocation();
+        await GetWeatherDataByLocation(latitude, longitude);
+    }
+
+    public async Task GetWeatherDataByLocation(double latitude, double longitude)
+    {
         var result = await APIService.GetWeather(latitude, longitude);
+        UpdateUI(result);
+    }
 
-        foreach(var item in result.List)
+    private async void ImageButton_Clicked(object sender, EventArgs e)
+    {
+        var respone = await DisplayPromptAsync(title: "", message: "", placeholder: "Search weather by city", accept: "Search", cancel: "Cancel");
+
+        if (respone != null)
+        {
+            await GetWeatherDataByCity(respone);
+        }
+    }
+
+
+    public async Task GetWeatherDataByCity(string city)
+    {
+        var result = await APIService.GetWeatherByCity(city);
+        UpdateUI(result);
+    }
+
+    public void UpdateUI(dynamic result)
+    {
+        foreach (var item in result.List)
         {
             weatherList.Add(item);
         }
@@ -37,13 +75,7 @@ public partial class WeatherPage : ContentPage
         //ImgWeatherIcon.Source = new Uri(fullIconUrl);
 
         // Display the FullIconUrl to verify
-        await DisplayAlert("Weather Icon", $"FullIconUrl: {fullIconUrl}", "OK");
+        DisplayAlert("Weather Icon", $"FullIconUrl: {fullIconUrl}", "OK");
     }
 
-    public async Task GetLocation()
-    {
-        var location = await Geolocation.GetLocationAsync();
-        latitude = location.Latitude;
-        longitude = location.Longitude;
-    }
 }
