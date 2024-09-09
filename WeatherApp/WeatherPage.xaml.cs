@@ -4,6 +4,8 @@ namespace WeatherApp;
 public partial class WeatherPage : ContentPage
 {
     public List<Models.List> weatherList;
+    private double latitude;
+    private double longitude;
 	public WeatherPage()
 	{
 		InitializeComponent();
@@ -13,7 +15,9 @@ public partial class WeatherPage : ContentPage
     protected async override void OnAppearing()
     {
         base.OnAppearing();
-        var result = await APIService.GetWeather(41.715137, 44.827095);
+        await GetLocation();
+
+        var result = await APIService.GetWeather(latitude, longitude);
 
         foreach(var item in result.List)
         {
@@ -34,5 +38,12 @@ public partial class WeatherPage : ContentPage
 
         // Display the FullIconUrl to verify
         await DisplayAlert("Weather Icon", $"FullIconUrl: {fullIconUrl}", "OK");
+    }
+
+    public async Task GetLocation()
+    {
+        var location = await Geolocation.GetLocationAsync();
+        latitude = location.Latitude;
+        longitude = location.Longitude;
     }
 }
